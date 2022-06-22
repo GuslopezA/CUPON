@@ -1,0 +1,21 @@
+.navbar-brand img,
+footer img {
+    width: 4rem;
+    
+}
+.navbar{
+    margin: 2rem;
+}
+.card-footer span {
+    padding-left: 1rem;
+}
+
+i {
+    padding-right: 0.5em;
+}
+form {
+        padding-left: 1rem;
+        padding-right: 1rem;
+        margin: 1rem;
+        
+    }
